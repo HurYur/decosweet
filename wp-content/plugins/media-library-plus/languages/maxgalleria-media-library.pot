@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maxgalleria-media-library\n"
+"POT-Creation-Date: 2016-08-29 17:34-0000\n"
+"PO-Revision-Date: 2016-08-29 17:34-0000\n"
+"Last-Translator: Maxgalleria <support@maxfoundry.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../maxgalleria-media-library.php:338 ../maxgalleria-media-library.php:1442
+#: ../maxgalleria-media-library.php:1570 ../maxgalleria-media-library.php:1643
+#: ../maxgalleria-media-library.php:1873 ../maxgalleria-media-library.php:1957
+#: ../maxgalleria-media-library.php:2114 ../maxgalleria-media-library.php:2211
+#: ../maxgalleria-media-library.php:2239 ../maxgalleria-media-library.php:2434
+#: ../maxgalleria-media-library.php:2556
+msgid "missing nonce!"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:572
+msgid "Media Library +"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:575
+msgid "Add New Folders"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:578
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:666
+msgid "Media Library Plus"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:671
+msgid "Makers of"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:671 ../maxgalleria-media-library.php:674
+msgid "and"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:674
+msgid "Brought to you by"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:674
+msgid "makers of"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:680
+msgid "Click here to learn about the Media Library Plus"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:705
+msgid "Location:"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:720
+msgid "Upload new files."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:720
+msgid "Add File"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:722
+msgid ""
+"Create a new folder. Type in a folder name (do not use spaces) and click "
+"Create Folder."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:722
+msgid "Add Folder"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:731
+msgid ""
+"When moving/copying to a new folder place your pointer, not the image, on "
+"the folder where you want the file(s) to go."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:732
+msgid ""
+"To drag multiple images, check the box under the files you want to move and "
+"then drag one of the images to the desired folder."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:733
+msgid ""
+"To move/copy to a folder nested under the top level folder click the "
+"triangle to the left of the folder to show the nested folder that is your "
+"target."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:734
+msgid ""
+"If you click on an image and end up in WordPress Media Library please "
+"backclick two times to return to MLP"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:857
+msgid "You cannot delete the currently open folder."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1035
+msgid ""
+"Move/Copy Toggle. Move or copy selected files to a different folder. <span "
+"class='mlp-warning'>Images already in existing pages or blog posts will not "
+"display if they are moved from their current location unless you deleted and "
+"reinsert them after they have been moved.</span>"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1044
+msgid ""
+"Rename a file; select only one file. Folders cannot be renamed. Type in a "
+"new name with no spaces and without the extention and click Rename."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1044 ../maxgalleria-media-library.php:1089
+msgid "Rename"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1046
+msgid "Delete selected files."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1046
+msgid "Delete"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1048
+msgid "Select or unselect all files in the folder."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1048
+msgid "Select/Unselect"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1050
+msgid "Sync the contents of the current folder with the server"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1050
+msgid "Sync"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1054
+msgid "Sort by Date"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1055
+msgid "Sort by Name"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1067
+msgid ""
+"Add images to an existing MaxGalleria gallery. Folders can not be added to a "
+"gallery. Images already in the gallery will not be added. "
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1067
+msgid "Add to MaxGalleria Gallery"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1088
+msgid "File Name: "
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1119
+msgid "Add Images"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1130
+msgid "Folder Name: "
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1131
+msgid "Create Folder"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1341
+msgid "No images or folders were found."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1474
+msgid "The folder was created."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1478
+msgid "There was a problem creating the folder."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1482
+msgid "The folder already exists."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1602
+msgid "The folder, "
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1602
+msgid ", is not empty. Please delete or move files form the folder"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1611
+msgid "The folder was deleted."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1613
+msgid "The folder could not be deleted."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1709
+msgid "Unable to copy the file; please check the folder and file permissions."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1794
+msgid ""
+"Unable to move the file(s); please check the folder and file permissions."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1801
+msgid "The destination is not a folder: "
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1807
+msgid "Cannot find destination folder: "
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1813
+msgid "Coping or moving a folder is not allowed."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1819
+msgid "Cannot find the file: "
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1825
+msgid "The file(s) were copied to "
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1827
+msgid "The file(s) were not copied."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1831
+msgid "The file(s) were moved to "
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1833
+msgid "The file(s) were not moved."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1946
+msgid "The images were added."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:1994 ../maxgalleria-media-library.php:2084
+msgid "No files were found matching that name."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:2223
+msgid "Sorting by date."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:2227
+msgid "Sorting by name."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:2273
+msgid "Scaning for new folders in "
+msgstr ""
+
+#: ../maxgalleria-media-library.php:2292
+msgid "Adding"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:2301
+msgid "No new folders were found."
+msgstr ""
+
+#: ../maxgalleria-media-library.php:2390
+msgid "Media LIbrary Plus Pro Launches!"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:2391
+#, php-format
+msgid ""
+"Celebrate Media Library Plus Pro! Use Discount Code \"Version3\" for 25% off "
+"at Checkout Till June 24th"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:2403
+msgid "Rate us Please!"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:2404
+msgid ""
+"Your rating is the simplest way to support Media Library Plus. We really "
+"appreciate it!"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:2407
+msgid "I've already left a review"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:2408
+msgid "Maybe Later"
+msgstr ""
+
+#: ../maxgalleria-media-library.php:2409
+msgid "Sure! I'd love to!"
+msgstr ""
