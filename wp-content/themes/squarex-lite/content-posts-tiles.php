@@ -3,9 +3,8 @@
  * @package Squarex
  */
 ?>
-
-<?php if ( have_posts() ) : ?>
-
+<?php query_posts( array( 'cat' => 4 ) );
+if ( have_posts() ) : ?>
 	<?php while ( have_posts() ) : the_post(); ?>
 
 		<div class="box">
